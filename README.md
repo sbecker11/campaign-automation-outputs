@@ -25,5 +25,24 @@ This repository is separate from the main `campaign-automation` code repository 
 
 ## Usage
 
-The main `campaign-automation` repository uses a symlink to access this directory, so scripts continue to work as before. Campaign outputs are automatically committed to this repository when campaigns are generated.
+The main `campaign-automation` repository uses a symlink to access this directory, so scripts continue to work as before.
+
+### Committing Campaign Outputs
+
+After generating a campaign, commit the outputs to this repository:
+
+```bash
+cd campaign-automation-outputs
+git add outputs/campaigns/<campaign_id>_<timestamp>/
+git commit -m "Add campaign: <campaign_id>_<timestamp>"
+git push
+```
+
+Or from the main repo directory:
+```bash
+cd ../campaign-automation-outputs
+git add .
+git commit -m "Add campaign outputs"
+git push
+```
 
