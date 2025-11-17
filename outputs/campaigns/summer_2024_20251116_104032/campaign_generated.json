@@ -124,19 +124,7 @@
             "low_quality": false
           },
           "hidden": true,
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-          "comment": "logo not okay aslkdf jladkf klasd fjaldkf lsfkd lsdfj xxxxxx"
-=======
-          "comment": "logo not okay xxxxxx yyyy zzzzz"
->>>>>>> Stashed changes
-=======
-          "comment": "logo not okay xxx yyy zzz "
->>>>>>> Stashed changes
-=======
-          "comment": "logo not okay zzz yyy xxx"
->>>>>>> Stashed changes
+          "comment": "logo not okay zzz yyy xxx \"aaa bbb ccc\""
         },
         {
           "path": "outputs/campaigns/summer_2024_20251116_104032/products/sunscreen_spf50/sunscreen_spf50_resized_16x9.png",
@@ -359,19 +347,7 @@
         "low_quality": false
       },
       "hidden": true,
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      "comment": "logo not okay aslkdf jladkf klasd fjaldkf lsfkd lsdfj xxxxxx"
-=======
-      "comment": "logo not okay xxxxxx yyyy zzzzz"
->>>>>>> Stashed changes
-=======
-      "comment": "logo not okay xxx yyy zzz "
->>>>>>> Stashed changes
-=======
-      "comment": "logo not okay zzz yyy xxx"
->>>>>>> Stashed changes
+      "comment": "logo not okay zzz yyy xxx \"aaa bbb ccc\""
     },
     {
       "path": "outputs/campaigns/summer_2024_20251116_104032/products/sunscreen_spf50/sunscreen_spf50_resized_16x9.png",
